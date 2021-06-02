@@ -1,5 +1,5 @@
 # Link for live app
-# https://do--to-do.web.app
+# https://do-to-do.netlify.app/
 #### ->used firebase firestore for database
 #### ->used concepts of react hooks and conext in react
 
